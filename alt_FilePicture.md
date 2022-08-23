@@ -25,6 +25,8 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
+![qwerty](https://github.com/TanyaJazzTeam/19_4_08_Pub/blob/main/1614560341_16-p-ikonki-na-belom-fone-18.png)
+
 # true
 
   - Import a HTML file and watch it magically convert to Markdown
