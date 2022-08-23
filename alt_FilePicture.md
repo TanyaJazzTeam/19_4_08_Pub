@@ -25,7 +25,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
-[aswa](TanyaJazzTeam/19_4_08_Pub/christianbale913201.jpg)
+[aswa](https://github.com/TanyaJazzTeam/19_4_08_Pub/blob/main/christianbale913201.jpg)
 
 # true
 
