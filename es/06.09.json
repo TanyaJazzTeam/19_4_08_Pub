@@ -1,0 +1,34 @@
+{
+  "physics": [
+    {
+      "name": "Mecánica",
+      "sections": [
+        {
+          "complexity": "promedio",
+          "interest": "estupendo"
+        },
+        {
+          "name": "hidrodinámica",
+          "complexity": "4",
+          "bool": "falso"
+        }
+      ]
+    },
+    {
+      "note": "suma",
+      "useful links": [
+        {
+        }
+      ]
+    },
+    {
+      "name": "Electricidad",
+      "sections": [
+        {
+          "name": "electrostática",
+          "interest": "cinco"
+        }
+      ]
+    }
+  ]
+}
