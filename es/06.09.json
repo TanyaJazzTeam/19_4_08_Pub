@@ -4,12 +4,15 @@
       "name": "Mecánica",
       "sections": [
         {
+          "name": "Kinematics",
           "complexity": "promedio",
-          "interest": "estupendo"
+          "interest": "estupendo",
+          "bool": true
         },
         {
           "name": "hidrodinámica",
           "complexity": "4",
+          "interest": "3",
           "bool": "falso"
         }
       ]
@@ -18,6 +21,7 @@
       "note": "suma",
       "useful links": [
         {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
         }
       ]
     },
@@ -26,6 +30,7 @@
       "sections": [
         {
           "name": "electrostática",
+          "complexity": "cuatro",
           "interest": "cinco"
         }
       ]
