@@ -7,7 +7,7 @@
           "name": "Kinematics",
           "complexity": "promedio",
           "interest": "estupendo",
-          "bool": true
+          "bool": "verdadero"
         },
         {
           "name": "hidrodinámica",
