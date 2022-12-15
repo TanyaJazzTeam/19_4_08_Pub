@@ -1,0 +1,39 @@
+{
+  "physics": [
+    {
+      "name": "Mecânica",
+      "sections": [
+        {
+          "name": "Cinemática",
+          "complexity": "médiaе",
+          "interest": "excelente",
+          "bool": "verdadeiro"
+        },
+        {
+          "name": "Hidrodinâmica",
+          "complexity": "4",
+          "interest": "3",
+          "bool": "falso"
+        }
+      ]
+    },
+    {
+      "note": "Adição",
+      "useful links": [
+        {
+          "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
+        }
+      ]
+    },
+    {
+      "name": "Eletricidade",
+      "sections": [
+        {
+          "name": "eletrostática",
+          "complexity": "quatro",
+          "interest": "cinco"
+        }
+      ]
+    }
+  ]
+}
