@@ -5,6 +5,7 @@
       "sections": [
         {
           "name": "Cinemática",
+          "complexity": "médiaе",
           "interest": "excelente",
           "bool": "verdadeiro"
         },
